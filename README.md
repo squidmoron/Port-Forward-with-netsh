@@ -44,5 +44,4 @@
    netsh advfirewall firewall add rule name="{ruleName}" protocol=TCP dir=in localip={srcIp} localport={srcPort} action=allow   
 
 
-## Don't Forget to Open the InBound Firewall
-## Thankyou
+## Don't Forget to Open the InBound Firewall, Thankyou.
