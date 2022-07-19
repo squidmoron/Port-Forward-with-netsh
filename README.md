@@ -33,6 +33,8 @@
 
     <img src=/img/delete.png></img>
     
-    
+----------------------------- 
+6. add firewall rule:
+   netsh advfirewall firewall add rule name="{ruleName}" protocol=TCP dir=in localip={srcIp} localport={srcPort} action=allow   
     
 Thankyou
