@@ -1,6 +1,6 @@
 # Port-Forward-with-netsh
 ### Use netsh for Port Forwarding in PowerShell
-<img src=/img/PortForward.PNG></img>
+<img src=/img/PortForward.png></img>
 
 
 1.  Check all port proxy that used in localhost with :
